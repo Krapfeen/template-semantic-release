@@ -1,4 +1,11 @@
 {
+  "name": "template-semantic-release",
+  "version": "1.0.0",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Krapfeen/template-semantic-release.git"
+  },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.1",
