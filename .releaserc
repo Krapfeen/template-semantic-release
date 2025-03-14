@@ -1,7 +1,6 @@
 {
-  "branches": [
-    "main"
-  ],
+  "branches": ["main"],
+  "repositoryUrl": "https://github.com/Krapfeen/template-semantic-release.git",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
